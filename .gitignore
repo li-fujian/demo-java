@@ -1,0 +1,14 @@
+node_modules
+bower_components
+dist
+dist*
+build.xml
+.tmp
+.idea
+target/
+.settings/
+.classpath
+.project
+.idea
+
+ 
