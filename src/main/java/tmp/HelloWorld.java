@@ -6,7 +6,13 @@ package tmp;
  */
 public class HelloWorld {
     
+    
     public static void main(String[] args) {
         System.out.println("hello,world~");
+        int[] s = {1,3};
+        synchronized (s) {
+            
+        }
+        
     }
 }
